@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">PowerCalc_1</string>
+    <string name="app_name" translatable="false">PowerCalc</string>
+    <string name="titulo_Cal">Calculadora de Potencias</string>
+    <string name="instrucciones">Calcula la potencia en Watts [W] en función de la Resistencia, Voltaje ó Corriente</string>
+    <string name="elegir">Elija la formula que desea utilizar:</string>
+    <string name="introduccionVyC">Potencia con Voltaje y Corriente conocidos</string>
+    <string name="introduccionRyC">Potencia con Resistencia y Corriente conocidos</string>
+    <string name="introduccionRyV">Potencia con Resistencia y Voltaje conocidos</string>
+    <string name="escribeVoltaje">Ingresa el valor del voltaje</string>
+    <string name="escribeCorriente">Ingresa el valor de la corriente</string>
+    <string name="escribeResistencia">Ingresa el valor de la resistencia</string>
+    <string name="V" translatable="false">[V]</string>
+    <string name="A" translatable="false">[A]</string>
+    <string name="R" translatable="false">[Ohms]</string>
+    <string name="P" translatable="false">[W]</string>
+    <string name="Calcular">Calcular</string>
+    <string name="error1">Por favor, ingrese un número real</string>
+    <string name="error2">No se puede dividir entre 0, ingrese otro valor</string>
+    <string name="resultado">El resultado es:</string>
+    <string name="voltajeycorriente">VOLTAJE Y CORRIENTE:</string>
+    <string name="voltajeyresistencia">VOLTAJE Y RESISTENCIA:</string>
+    <string name="resistenciaycorriente">RESISTENCIA Y CORRIENTE:</string>
+
+
 </resources> <!---Esta ventana va a contener todos los textos y recursos que vamos a utilizar.-->
+

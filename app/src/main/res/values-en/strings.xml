@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PowerCalc</string>
+    <string name="titulo_Cal">Electric Power Calculator</string>
+    <string name="instrucciones">Calculates electric power in Watts [W] based on the Voltage, Current or Resistence</string>
+    <string name="elegir">Select the option you want to use</string>
+    <string name="introduccionVyC">Electric Power with Voltage and Current knowed</string>
+    <string name="introduccionRyC">Electric Power with Resistance and Current knowed</string>
+    <string name="introduccionRyV">Electric Power with Resistance and Voltage knowed</string>
+    <string name="escribeVoltaje">Voltage value</string>
+    <string name="escribeCorriente">Current value</string>
+    <string name="escribeResistencia">Resistance value</string>
+    <string name="Calcular">Compute</string>
+    <string name="error1">Please, enter a real number</string>
+    <string name="error2">Can\'t divide by zero, enter another number</string>
+    <string name="resultado">Result:</string>
+    <string name="voltajeycorriente">VOLTAGE AND CURRENT</string>
+    <string name="voltajeyresistencia">VOLTAGE AND RESISTANCE</string>
+    <string name="resistenciaycorriente">RESISTANCE AND CURRENT</string>
+</resources>
